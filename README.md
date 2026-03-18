@@ -1,4 +1,6 @@
-# protoJeu
-Prototyping a simple game
+# Be careful, man !
+Prototyping a simple game for a one week Game Jam in teams of 3.
 
-The game is a WarioWare style mini games succession
+This game is a Wario Ware inspired game with a twist : you need to finish it in 30 seconds !
+
+[Download on itch.io](https://trappymadz.itch.io/be-careful)
